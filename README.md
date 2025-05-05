@@ -44,7 +44,7 @@ Bilet oluşturduktan sonra, daha önceden oluşturduğumuz katılımcılardan he
 Veriler her işlem yapıldığında kaydedilmektedir. Bu verileri programın çalıştığı klasörün içerisine "biletler.json", "etkinlikler.json", "katilimciler.json" olarak ayrı ayrı kaydetmektedir. Program başlatıldığında otomatik olarak bu dosyalardan kayıtları çekmekte ve programa entegre etmektedir.
 
 
-# ▶︎ Projeyi nasıl çalıştırılır?
+# ▶︎ Proje nasıl çalıştırılır?
 
 1) Visual studio code uygulamasını indirip eklentiler kısmından Python eklentisini kurun.
 2) Projeyi indirin ve herhangi bir klasöre çıkartın.
