@@ -24,3 +24,30 @@ Katılımcılar bölümünde ise bilet satılabilecek katılımcıları ekleyebi
 Eklediğimiz katılımcıyı "Katılımcı Ekle" butonunun altındaki **Mevcut Katılımcılar** bölümünden görüntüleyebiliyoruz.
 
 ![image](https://github.com/user-attachments/assets/4d32ab3c-dc61-42e6-911c-ee7b08d164eb)
+
+# ▶︎ Biletler Kısmı:
+
+Bilet oluşturmak için daha önceden bir etkinlik eklemiş olmamız gerekmektedir.
+
+Eklediğimiz etkinliği seçerek bilet fiyatı kısmına biletin adet fiyatının ne kadar olmasını istiyorsak yazıyoruz. 
+
+Fiyatı yazdıktan sonra bileti oluşturmak için "Seçili Etkinlik İçin Biletleri Oluştur" butonuna basıyoruz ve biletimiz oluşuyor.
+
+# ▶︎ Bilet Satışı:
+
+Bilet oluşturduktan sonra, daha önceden oluşturduğumuz katılımcılardan herhangi birini seçerek ve satmak istediğimiz bileti satarak biletleri satabiliyoruz.
+
+![image](https://github.com/user-attachments/assets/571bef48-e53f-4fc7-bbb0-78e9154bd366)
+
+
+# ▶︎ Programdaki Veriler
+Veriler her işlem yapıldığında kaydedilmektedir. Bu verileri programın çalıştığı klasörün içerisine "biletler.json", "etkinlikler.json", "katilimciler.json" olarak ayrı ayrı kaydetmektedir. Program başlatıldığında otomatik olarak bu dosyalardan kayıtları çekmekte ve programa entegre etmektedir.
+
+
+# ▶︎ Projeyi nasıl çalıştırılır?
+
+1) Visual studio code uygulamasını indirip eklentiler kısmından Python eklentisini kurun.
+2) Projeyi indirin ve herhangi bir klasöre çıkartın.
+3) Çıkarttıktan sonra etkinlik_yonetim adındaki dosyayı visual studio code kullanarak açın.
+4) Sağ üst kısımdan (oynatma tuşu) başlat tuşuna basarak projeyi çalıştırabilirsiniz.
+   
