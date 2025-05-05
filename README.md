@@ -2,7 +2,7 @@
 
 > Etkinlik yönetim sistemi sayesinde yeni etkinlik ekleyebilir, yeni katılımcı ekleyebilir, bilet oluşturabilir biletleri eklediğimiz katılımcılara satabiliriz.
 
-▶︎ Etkinlikler Kısmı:
+# ▶︎ Etkinlikler Kısmı:
 
 Bu bölümde yeni etkinlik oluşturabiliriz. 
 Etkinlik oluşturulurken önce etkinliğin adı sonra etkinliğin tarihi, etkinlik yapılacağı yer ve etkinliğin kapasitesi belirtilmelidir.
@@ -17,7 +17,7 @@ Eğer istersek daha önceden eklediğimiz etkinlikleri seçerek "Etkinliği Sil"
 
 ![image](https://github.com/user-attachments/assets/fb7812a1-900d-45b1-924c-a78c37fd7f2b)
 
-▶︎ Katılımcılar Kısmı:
+# ▶︎ Katılımcılar Kısmı:
 
 Katılımcılar bölümünde ise bilet satılabilecek katılımcıları ekleyebiliyoruz. Eklemek istediğimiz katılımcının adını soyadını ve iletişim adresini (telefon numarası veya mail adresi) olacak şekilde ekliyoruz.
 
